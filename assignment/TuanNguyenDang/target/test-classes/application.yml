@@ -1,0 +1,8 @@
+spring:
+  cache:
+    ehcache:
+      config: classpath:ehcache.xml
+quandl:
+  com:
+    api:
+      key: VwjkZokMs3RnguubGz7P
